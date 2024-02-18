@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <UserSecretsId>c7ca7160-5a60-487a-bc47-62b23bc63378</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
